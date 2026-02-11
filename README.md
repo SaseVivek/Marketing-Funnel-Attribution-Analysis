@@ -1,6 +1,6 @@
 # 📊 Marketing Funnel & Attribution Analysis Dashboard
 
-![Tableau](ss/Marketing Funnel & Attribution Analysis.jpeg)
+![Tableau](ss/Marketing_Funnel_&_Attribution_Analysis.jpeg)
 ---
 
 ## 📌 Project Overview
