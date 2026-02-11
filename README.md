@@ -67,7 +67,7 @@ The project includes **four interactive dashboards**, each focused on a differen
 
 This dashboard monitors user progression across funnel stages and identifies drop-off points. It helps evaluate overall funnel health and conversion efficiency.
 
-![Funnel Overview](screenshots/funnel_dashboard.png)
+![Funnel Overview](ss/funnel_overview.png)
 
 ---
 
@@ -75,7 +75,7 @@ This dashboard monitors user progression across funnel stages and identifies dro
 
 This dashboard analyzes campaign performance, revenue contribution, ROI, and customer acquisition cost. It helps measure marketing effectiveness and profitability.
 
-![Marketing ROI](screenshots/roi_dashboard.png)
+![Marketing ROI](ss/Marketing_Attribution_&_ROI_Dashboard.png)
 
 ---
 
@@ -83,7 +83,7 @@ This dashboard analyzes campaign performance, revenue contribution, ROI, and cus
 
 This dashboard evaluates traffic quality, device performance, and session-to-conversion relationships. It helps understand which sources and platforms drive better results.
 
-![Traffic Performance](screenshots/traffic_dashboard.png)
+![Traffic Performance](ss/TRAFFIC_&_PLATFORM_PERFORMANCE.png)
 
 ---
 
@@ -91,17 +91,10 @@ This dashboard evaluates traffic quality, device performance, and session-to-con
 
 This dashboard provides deeper insights into campaign-wise conversion, revenue performance, and user behavior patterns across funnel stages.
 
-![Campaign Insights](screenshots/campaign_dashboard.png)
+![Campaign Insights](ss/CAMPAIGN_&_ER_INSIGHTS.png)
 
 ---
 
-## 📄 Full Dashboard File
-
-👉 **[View Complete Tableau Project](Marketing_Funnel.twbx)**
-
-This packaged workbook contains all dashboards with filters and interactive insights.
-
----
 
 ## 🔍 Key Insights
 
