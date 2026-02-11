@@ -51,7 +51,7 @@ The dataset simulates real-world digital marketing analytics with multi-table re
 * **Relational Data Modeling** – Multi-table relationships
 * **Calculated Fields** – Conversion rate, ROI, CAC, funnel metrics
 
-![Tableau](screenshots/tableau.png)
+![Tableau](ss/tableau.png)
 
 ---
 
